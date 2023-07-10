@@ -13,7 +13,7 @@ A logical diagram is needed because we can use the foreign and primary key here 
 
 ## Data Dictionary
 
-Refer to the project report attached above "DBMS project.pdf"
+Refer to the project report attached above "DBMS project.pdf" for the data dictionaries.
 
 ## SQL Queries
 Till now we just created the design of the database. Now to make its functionality work we have implemented the database in SQL. In SQL varieties we have chosen the MySQL database
