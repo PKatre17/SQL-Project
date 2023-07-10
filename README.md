@@ -1,5 +1,5 @@
 # Database management system for a rental company
-This design of the database includes a conceptual model, logical model, data dictionary, and the queries used to design the database.
+Designed a Database Management System using SQL for a rental company. This design of the database includes a conceptual model, logical model, data dictionary, and the queries used to design the database.
 
 ## Conceptual Model
 The conceptual diagram has eight entities all having a properly defined relationship. From the multiple relation types, mostly the many-to-many, optional, and mandatory ones are used to create and show the link between the entities.
